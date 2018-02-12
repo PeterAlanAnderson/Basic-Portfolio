@@ -1,0 +1,44 @@
+body {
+    background-color: red;
+}
+
+#mainContainer {
+    margin: auto;
+    max-width: 960px;
+}
+
+#pageBlock {
+    border-top: 5px solid #dddddd;
+}
+
+#mainBlock {
+    max-width: 650px;
+    background-color: #ffffff;
+    float: left;
+}
+
+#contactBlock {
+    max-width: 270px;
+    background-color: #ffffff;
+    float: right;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h2 {
+    margin: 10px;
+    border-bottom: 5px, solid, black;
+}
+
+p {
+    margin: 10px;
+}
+
+nav li {
+    display: inline-block;
+    text-align: right;
+        
+}
+
