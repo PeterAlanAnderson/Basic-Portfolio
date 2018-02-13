@@ -1,5 +1,6 @@
 body {
-    background-color: red;
+    background-image: url("../images/spiration-light.png");
+    background-repeat: repeat;
 }
 
 #mainContainer {
